@@ -125,3 +125,13 @@ Your delivery will be evaluated based on:
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-CjKFk4NY9yXiR1oheHsFR4YYn4HcD_0A6fgd11tHcT3p1U2RKXvIs6HflkvuLOOUzFxzxYCjDno2f1p6_q31dDE9AaUoEx1pi0Fs9ApJG2czL-88xrx3XO-oEP5ZXXsyXw0GKjA2W0A5q1Bk979SB1M?key=mLqAl_ccMoG4hHcRzSYKpw)**
 
+
+How to launch the app use this command : docker-compose up --build -d
+
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/87398e70-3630-4fe8-b288-a281dbaec04f" />
+
+<img width="954" alt="image" src="https://github.com/user-attachments/assets/17575c64-220b-4689-b230-8a618ba5171e" />
+
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a170330d-33c6-4829-9630-6e53e2fc4673" />
+
+
